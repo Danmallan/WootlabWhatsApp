@@ -5,4 +5,6 @@
     <string name="chats">Chats</string>
     <string name="calls">Calls</string>
     <string name="status">Status</string>
+    <string name="whats_your_number"> <u>Whats your number?</u></string>
+    <string name="whatsapp_will_send_an_sms_message_to_verify_your_n_number_what_s_your_number">Whatsapp will send an SMS message to verify your number.</string>
 </resources>

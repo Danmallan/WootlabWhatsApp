@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 
+import com.example.wootlabwhatsapp.view.StartUpActivity;
+
 public class SplashScreenActivity extends AppCompatActivity {
 
     @Override
@@ -21,7 +23,7 @@ public class SplashScreenActivity extends AppCompatActivity {
                     Log.e("Splash Screen", e.getMessage());
                     e.printStackTrace();
                 }finally {
-                    startActivity(new Intent(SplashScreenActivity.this, MainActivity.class));
+                    startActivity(new Intent(SplashScreenActivity.this, StartUpActivity.class));
                 }
             }
         };
