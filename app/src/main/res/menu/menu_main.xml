@@ -17,13 +17,13 @@
             android:id="@+id/action_new_broadcast"
             android:title="New broadcast"/>
         <item
-            android:id="@+id/action_new_web"
+            android:id="@+id/action_web"
             android:title="WhatsApp web"/>
         <item
-            android:id="@+id/action_new_messages"
+            android:id="@+id/action_messages"
             android:title="Starred messages"/>
         <item
-            android:id="@+id/action_new_sttings"
+            android:id="@+id/action_settings"
             android:title="Settings"/>
 
     </group>

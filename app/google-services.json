@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96395266444",
+    "project_id": "wootlabwhatsapp",
+    "storage_bucket": "wootlabwhatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96395266444:android:cac5cfc2c8b0061d07aea9",
+        "android_client_info": {
+          "package_name": "com.example.wootlabwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96395266444-q8qslfd2fir9dqggcn5if2gdghc7ta82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUy74PNvOHBwOkm6lC7mV3uqnRSs_WAlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96395266444-q8qslfd2fir9dqggcn5if2gdghc7ta82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
